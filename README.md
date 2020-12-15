@@ -17,13 +17,6 @@ I use Arch BTW.
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) - 
 - [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - 
 - [fearricepudding/LEDVisualiser](https://github.com/fearricepudding/LEDVisualiser) - 
-- [fearricepudding/LEDCompanion](https://github.com/fearricepudding/LEDCompanion) - Android LED controller app
-- [fearricepudding/pong](https://github.com/fearricepudding/pong) - 
-- [fearricepudding/pos_basestation_updater](https://github.com/fearricepudding/pos_basestation_updater) - 
-- [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP*
-- [fearricepudding/ai](https://github.com/fearricepudding/ai) - 
-- [fearricepudding/java-key-store](https://github.com/fearricepudding/java-key-store) - Persistent, not in memory, key value store  
-- [fearricepudding/xinput-converter](https://github.com/fearricepudding/xinput-converter) - Convert xinput_calibrator outputs to xinput command
 
 #### 📫 How to reach me
 
