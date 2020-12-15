@@ -10,7 +10,7 @@ I use Arch BTW.
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
