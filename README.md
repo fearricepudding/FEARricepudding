@@ -6,7 +6,7 @@ I use Arch BTW.
 
 #### 🌱 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 day ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
 - [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (5 days ago)
 - [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - Application for streaming frames to LEDController (3 weeks ago)
 - [fearricepudding/LEDVisualiser](https://github.com/fearricepudding/LEDVisualiser) - Application for creating patterns and animations for LEDController (1 month ago)
