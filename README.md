@@ -6,11 +6,11 @@ I use Arch BTW.
 
 #### 🌱 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
-- [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (1 day ago)
-- [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - Application for streaming frames to LEDController (1 day ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 day ago)
+- [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (2 days ago)
+- [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - Application for streaming frames to LEDController (2 days ago)
 - [fearricepudding/LEDVisualiser](https://github.com/fearricepudding/LEDVisualiser) - Application for creating patterns and animations for LEDController (1 month ago)
-- [fearricepudding/pos_basestation_updater](https://github.com/fearricepudding/pos_basestation_updater) -  (2 months ago)
+- [fearricepudding/pos_basestation_updater](https://github.com/fearricepudding/pos_basestation_updater) -  (3 months ago)
 
 #### 🌱 My latest projects
 
