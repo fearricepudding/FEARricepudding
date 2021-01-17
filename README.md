@@ -7,16 +7,16 @@ I use Arch BTW.
 #### 🌱 What I'm currently working on
 
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
+- [fearricepudding/Halifax-CSV-statement-analiser](https://github.com/fearricepudding/Halifax-CSV-statement-analiser) - Parse Halifax CSV statements and see statement statistics  (today)
 - [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (1 week ago)
 - [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - Application for streaming frames to LEDController (1 week ago)
 - [fearricepudding/LEDVisualiser](https://github.com/fearricepudding/LEDVisualiser) - Application for creating patterns and animations for LEDController (1 month ago)
-- [fearricepudding/pos_basestation_updater](https://github.com/fearricepudding/pos_basestation_updater) -  (3 months ago)
 
 #### 🌱 My latest projects
 
+- [fearricepudding/Halifax-CSV-statement-analiser](https://github.com/fearricepudding/Halifax-CSV-statement-analiser) - Parse Halifax CSV statements and see statement statistics 
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) - 
 - [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - Application for streaming frames to LEDController
-- [fearricepudding/LEDVisualiser](https://github.com/fearricepudding/LEDVisualiser) - Application for creating patterns and animations for LEDController
 
 #### 📫 How to reach me
 
