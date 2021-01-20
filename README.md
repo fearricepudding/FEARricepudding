@@ -6,7 +6,7 @@ I use Arch BTW.
 
 #### 🌱 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 day ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
 - [fearricepudding/Halifax-CSV-statement-analiser](https://github.com/fearricepudding/Halifax-CSV-statement-analiser) - Parse Halifax CSV statements and see statement statistics  (3 days ago)
 - [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (1 week ago)
 - [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - Application for streaming frames to LEDController (1 week ago)
