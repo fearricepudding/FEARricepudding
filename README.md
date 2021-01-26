@@ -6,11 +6,11 @@ I use Arch BTW.
 
 #### 🌱 What I'm currently working on
 
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
 - [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser (today)
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 day ago)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP framework (today)
+- [fearricepudding/java-key-store](https://github.com/fearricepudding/java-key-store) - Persistent, not in memory, key value store   (today)
 - [fearricepudding/Halifax-CSV-statement-analiser](https://github.com/fearricepudding/Halifax-CSV-statement-analiser) - Parse Halifax CSV statements and see statement statistics  (1 week ago)
-- [fearricepudding/LEDStreamer](https://github.com/fearricepudding/LEDStreamer) - Application for streaming frames to LEDController (2 weeks ago)
-- [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (2 weeks ago)
 
 #### 🌱 My latest projects
 
