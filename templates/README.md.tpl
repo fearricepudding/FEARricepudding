@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm 'FEAR', a bored tinkerer. I enjoy creating all sort of random, (hopefully) useful software/websites/stuff? 
+I enjoy creating all sort of random, (hopefully) useful software/websites/stuff? 
 I'm always jumping between projects and learning new things and happy to share anything I create.
 I use Arch BTW.
 
-#### 🌱 What I'm currently working on
+#### 💎 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
