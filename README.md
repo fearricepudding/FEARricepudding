@@ -6,7 +6,7 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 day ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
 - [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser (3 days ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP framework (3 days ago)
 - [fearricepudding/java-key-store](https://github.com/fearricepudding/java-key-store) - Persistent, not in memory, key value store   (3 days ago)
