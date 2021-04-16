@@ -7,10 +7,10 @@ I use Arch BTW.
 #### 💎 What I'm currently working on
 
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP framework (today)
 - [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser (3 days ago)
 - [fearricepudding/java-key-store](https://github.com/fearricepudding/java-key-store) - Persistent, not in memory, key value store   (1 week ago)
 - [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (2 months ago)
-- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP framework (2 months ago)
 
 #### 🌱 My latest projects
 
