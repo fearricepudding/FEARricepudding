@@ -6,7 +6,7 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 day ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (2 weeks ago)
 - [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser (1 month ago)
 - [fearricepudding/java-key-store](https://github.com/fearricepudding/java-key-store) - Persistent, not in memory, key value store   (1 month ago)
@@ -14,9 +14,9 @@ I use Arch BTW.
 
 #### 🌱 My latest projects
 
+- [fearricepudding/prospect](https://github.com/fearricepudding/prospect) - 
 - [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser
 - [fearricepudding/Halifax-CSV-statement-analiser](https://github.com/fearricepudding/Halifax-CSV-statement-analiser) - Parse Halifax CSV statements and see statement statistics 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) - 
 
 #### 📫 How to reach me
 
