@@ -16,7 +16,7 @@ I use Arch BTW.
 
 - [fearricepudding/prospect](https://github.com/fearricepudding/prospect) - 
 - [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser
-- [fearricepudding/Halifax-CSV-statement-analiser](https://github.com/fearricepudding/Halifax-CSV-statement-analiser) - Parse Halifax CSV statements and see statement statistics 
+- [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics 
 
 #### 📫 How to reach me
 
