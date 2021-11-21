@@ -7,10 +7,10 @@ I use Arch BTW.
 #### 💎 What I'm currently working on
 
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
+- [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (today)
 - [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (2 months ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (4 months ago)
 - [fearricepudding/prospect](https://github.com/fearricepudding/prospect) -  (5 months ago)
-- [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser (7 months ago)
 
 #### 🌱 My latest projects
 
