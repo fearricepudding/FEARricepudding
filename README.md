@@ -6,10 +6,10 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (6 days ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
 - [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (1 month ago)
 - [fearricepudding/LEDController](https://github.com/fearricepudding/LEDController) - Server build for controlling ws2812 LEDS driven by a Raspberry pi. *WIP* (5 months ago)
-- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (7 months ago)
 - [fearricepudding/prospect](https://github.com/fearricepudding/prospect) -  (9 months ago)
 
 #### 🌱 My latest projects
