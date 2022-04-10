@@ -6,17 +6,17 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
+- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (1 day ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java (1 week ago)
-- [Cmaz1983/Ideare_Tutto](https://github.com/Cmaz1983/Ideare_Tutto) - Mock Up E-commerce Site  (4 weeks ago)
+- [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java (2 weeks ago)
+- [Cmaz1983/Ideare_Tutto](https://github.com/Cmaz1983/Ideare_Tutto) - Mock Up E-commerce Site  (1 month ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (1 month ago)
-- [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP
 - [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java
 - [fearricepudding/prospect](https://github.com/fearricepudding/prospect) - 
-- [fearricepudding/cppcsv](https://github.com/fearricepudding/cppcsv) - *WIP* CSV parser
 
 #### 📫 How to reach me
 
