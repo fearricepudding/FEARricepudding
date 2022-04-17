@@ -6,9 +6,9 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (1 day ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java (2 weeks ago)
+- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (1 week ago)
+- [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java (3 weeks ago)
 - [Cmaz1983/Ideare_Tutto](https://github.com/Cmaz1983/Ideare_Tutto) - Mock Up E-commerce Site  (1 month ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (1 month ago)
 
