@@ -7,9 +7,9 @@ I use Arch BTW.
 #### 💎 What I'm currently working on
 
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (3 weeks ago)
+- [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (4 weeks ago)
 - [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (3 months ago)
-- [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java (3 months ago)
+- [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java (4 months ago)
 - [Cmaz1983/Ideare_Tutto](https://github.com/Cmaz1983/Ideare_Tutto) - Mock Up E-commerce Site  (4 months ago)
 
 #### 🌱 My latest projects
