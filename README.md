@@ -6,17 +6,17 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
+- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (1 day ago)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (1 day ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (2 weeks ago)
-- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (4 months ago)
-- [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java (4 months ago)
-- [Cmaz1983/Ideare_Tutto](https://github.com/Cmaz1983/Ideare_Tutto) - Mock Up E-commerce Site  (5 months ago)
+- [fearricepudding/wordle-game-js](https://github.com/fearricepudding/wordle-game-js) -  (1 week ago)
+- [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [fearricepudding/wordle-game-js](https://github.com/fearricepudding/wordle-game-js) - 
 - [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP
 - [fearricepudding/java_docx_manipulator](https://github.com/fearricepudding/java_docx_manipulator) - manipulate docx templates and convert to PDF in java
-- [fearricepudding/prospect](https://github.com/fearricepudding/prospect) - 
 
 #### 📫 How to reach me
 
