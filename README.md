@@ -6,9 +6,9 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (2 weeks ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
 - [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (1 month ago)
-- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (2 months ago)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (3 months ago)
 - [fearricepudding/wordle-game-js](https://github.com/fearricepudding/wordle-game-js) -  (3 months ago)
 - [fearricepudding/FinancialOrganiser](https://github.com/fearricepudding/FinancialOrganiser) - Parse Halifax CSV statements and see statement statistics  (3 months ago)
 
