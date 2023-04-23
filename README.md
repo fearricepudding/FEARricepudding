@@ -7,9 +7,9 @@ I use Arch BTW.
 #### 💎 What I'm currently working on
 
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (2 weeks ago)
+- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (3 weeks ago)
 - [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (4 months ago)
-- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (7 months ago)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (8 months ago)
 - [fearricepudding/wordle-game-js](https://github.com/fearricepudding/wordle-game-js) -  (8 months ago)
 
 #### 🌱 My latest projects
