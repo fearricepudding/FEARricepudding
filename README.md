@@ -6,9 +6,9 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex (1 day ago)
+- [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex (6 days ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (1 week ago)
+- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (2 weeks ago)
 - [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (4 months ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (8 months ago)
 
