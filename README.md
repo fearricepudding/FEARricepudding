@@ -9,7 +9,7 @@ I use Arch BTW.
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
 - [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex (4 months ago)
 - [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (4 months ago)
-- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (8 months ago)
+- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (9 months ago)
 
 #### 🌱 My latest projects
 
