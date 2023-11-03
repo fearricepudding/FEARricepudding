@@ -19,7 +19,7 @@ I use Arch BTW.
 
 #### 📫 How to reach me
 
-- EMail: fearricepudding@gmail.com
+- EMail: jordan@initialdev.com
 - Discord: FEARricepudding#5980
 
 ### 👍 Kudos
