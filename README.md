@@ -6,16 +6,17 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (2 days ago)
-- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (3 weeks ago)
+- [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address (1 day ago)
+- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (4 days ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
 - [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex (6 months ago)
-- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (10 months ago)
+- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (11 months ago)
 
 #### 🌱 My latest projects
 
+- [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address
 - [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex
 - [fearricepudding/wordle-game-js](https://github.com/fearricepudding/wordle-game-js) - 
-- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP
 
 #### 📫 How to reach me
 
