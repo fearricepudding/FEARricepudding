@@ -7,10 +7,10 @@ I use Arch BTW.
 #### 💎 What I'm currently working on
 
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address (4 weeks ago)
+- [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address (1 month ago)
 - [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (1 month ago)
 - [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex (7 months ago)
-- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (11 months ago)
+- [fearricepudding/f1_telematry](https://github.com/fearricepudding/f1_telematry) - WIP (1 year ago)
 
 #### 🌱 My latest projects
 
