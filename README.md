@@ -6,8 +6,8 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (1 month ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (2 weeks ago)
+- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (2 months ago)
 - [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address (6 months ago)
 
 #### 🌱 My latest projects
