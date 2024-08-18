@@ -6,15 +6,16 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (2 weeks ago)
+- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (1 day ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
 - [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (4 months ago)
 - [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address (9 months ago)
 
 #### 🌱 My latest projects
 
+- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library
 - [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address
 - [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex
-- [fearricepudding/wordle-game-js](https://github.com/fearricepudding/wordle-game-js) - 
 
 #### 📫 How to reach me
 
