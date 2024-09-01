@@ -6,16 +6,17 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
+- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (1 day ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (1 week ago)
+- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (2 weeks ago)
 - [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (5 months ago)
 - [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address (9 months ago)
 
 #### 🌱 My latest projects
 
 - [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library
+- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client
 - [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address
-- [fearricepudding/movie_linker](https://github.com/fearricepudding/movie_linker) - Symlink all movie files from a download directory (include subdirectories) to a host directory like plex
 
 #### 📫 How to reach me
 
