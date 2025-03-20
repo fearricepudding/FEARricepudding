@@ -6,17 +6,17 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (1 week ago)
-- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (3 weeks ago)
-- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (5 months ago)
-- [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address (10 months ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
+- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (3 days ago)
+- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (3 days ago)
+- [fearricepudding/ECUPWN_APP](https://github.com/fearricepudding/ECUPWN_APP) -  (2 months ago)
+- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (11 months ago)
 
 #### 🌱 My latest projects
 
 - [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library
 - [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client
-- [fearricepudding/getip](https://github.com/fearricepudding/getip) - Small executable to get a domains IPV4 and IPV6 address
+- [fearricepudding/ECUPWN_APP](https://github.com/fearricepudding/ECUPWN_APP) - 
 
 #### 📫 How to reach me
 
