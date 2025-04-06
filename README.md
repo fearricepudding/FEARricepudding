@@ -6,11 +6,11 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (1 day ago)
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 week ago)
-- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (1 week ago)
-- [fearricepudding/ECUPWN_APP](https://github.com/fearricepudding/ECUPWN_APP) -  (2 months ago)
-- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (1 year ago)
+- [InitialDev/uranium-framework](https://github.com/InitialDev/uranium-framework) -  (3 days ago)
+- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (1 week ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (2 weeks ago)
+- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (2 weeks ago)
+- [fearricepudding/ECUPWN_APP](https://github.com/fearricepudding/ECUPWN_APP) -  (3 months ago)
 
 #### 🌱 My latest projects
 
