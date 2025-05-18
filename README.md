@@ -6,11 +6,11 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (3 days ago)
-- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (1 week ago)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (1 week ago)
+- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (2 weeks ago)
 - [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (1 month ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (1 month ago)
-- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (1 month ago)
+- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (2 months ago)
 
 #### 🌱 My latest projects
 
