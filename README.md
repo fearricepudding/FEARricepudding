@@ -10,7 +10,7 @@ I use Arch BTW.
 - [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (1 month ago)
 - [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (2 months ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (2 months ago)
-- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (2 months ago)
+- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library (3 months ago)
 
 #### 🌱 My latest projects
 
