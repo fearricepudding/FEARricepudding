@@ -6,11 +6,11 @@ I use ~Arch~ Debian BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (2 weeks ago)
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (2 weeks ago)
+- [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (3 days ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (3 weeks ago)
 - [fearricepudding/libconfigfile](https://github.com/fearricepudding/libconfigfile) - Library for handling dotenv type config files in CPP (1 month ago)
-- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (1 month ago)
-- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (4 months ago)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (2 months ago)
+- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (5 months ago)
 
 #### 🌱 My latest projects
 
