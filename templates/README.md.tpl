@@ -2,7 +2,10 @@
 
 I enjoy creating all sort of random, (hopefully) useful software/websites/stuff? 
 I'm always jumping between projects and learning new things and happy to share anything I create.
-I use ~Arch~ Debian BTW.
+I use Arch BTW.
+
+#### Where else to find me
+[https://code.mazzola.xyz](code.mazzola.xyz) - Official work
 
 #### 💎 What I'm currently working on
 {{range recentContributions 5}}
@@ -16,11 +19,7 @@ I use ~Arch~ Debian BTW.
 
 #### 📫 How to reach me
 
-- EMail: fearricepudding@gmail.com
-- Discord: FEARricepudding#5980
+- EMail: jordan@mazzola.xyz
 
 ### 👍 Kudos
-
-Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-I'm happily using it to produce this page. Thanks to Christian Muehlhaeuser for all the hard work.
-
+ - [readme-scribe](https://github.com/muesli/readme-scribe)!
