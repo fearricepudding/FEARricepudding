@@ -2,14 +2,17 @@
 
 I enjoy creating all sort of random, (hopefully) useful software/websites/stuff? 
 I'm always jumping between projects and learning new things and happy to share anything I create.
-I use ~Arch~ Debian BTW.
+I use Arch BTW.
+
+#### Where else to find me
+[https://code.mazzola.xyz](code.mazzola.xyz) - Official work
 
 #### 💎 What I'm currently working on
 
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (3 weeks ago)
 - [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (1 month ago)
 - [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (2 months ago)
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (4 months ago)
 - [fearricepudding/libconfigfile](https://github.com/fearricepudding/libconfigfile) - Library for handling dotenv type config files in CPP (5 months ago)
 
 #### 🌱 My latest projects
@@ -20,11 +23,7 @@ I use ~Arch~ Debian BTW.
 
 #### 📫 How to reach me
 
-- EMail: fearricepudding@gmail.com
-- Discord: FEARricepudding#5980
+- EMail: jordan@mazzola.xyz
 
 ### 👍 Kudos
-
-Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-I'm happily using it to produce this page. Thanks to Christian Muehlhaeuser for all the hard work.
-
+ - [readme-scribe](https://github.com/muesli/readme-scribe)!
