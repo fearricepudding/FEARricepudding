@@ -5,7 +5,7 @@ I'm always jumping between projects and learning new things and happy to share a
 I use Arch BTW.
 
 #### Where else to find me
-[https://code.mazzola.xyz](code.mazzola.xyz) - Official work
+[code.mazzola.xyz](https://code.mazzola.xyz) - Official work
 
 #### 💎 What I'm currently working on
 
