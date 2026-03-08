@@ -9,17 +9,17 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (today)
-- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (3 weeks ago)
+- [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (6 days ago)
+- [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (1 month ago)
 - [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (1 month ago)
 - [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (2 months ago)
 - [fearricepudding/libconfigfile](https://github.com/fearricepudding/libconfigfile) - Library for handling dotenv type config files in CPP (5 months ago)
 
 #### 🌱 My latest projects
 
+- [fearricepudding/temp](https://github.com/fearricepudding/temp) - 
 - [fearricepudding/libconfigfile](https://github.com/fearricepudding/libconfigfile) - Library for handling dotenv type config files in CPP
 - [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) - 
-- [fearricepudding/candy](https://github.com/fearricepudding/candy) - simple CAN library
 
 #### 📫 How to reach me
 
