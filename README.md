@@ -9,9 +9,9 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
+- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (6 days ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (5 months ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (6 months ago)
-- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (6 months ago)
 - [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (7 months ago)
 - [fearricepudding/libconfigfile](https://github.com/fearricepudding/libconfigfile) - Library for handling dotenv type config files in CPP (10 months ago)
 
