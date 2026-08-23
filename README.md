@@ -9,7 +9,7 @@ I use Arch BTW.
 
 #### 💎 What I'm currently working on
 
-- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (1 week ago)
+- [fearricepudding/dotfiles](https://github.com/fearricepudding/dotfiles) -  (2 weeks ago)
 - [fearricepudding/FEARricepudding](https://github.com/fearricepudding/FEARricepudding) -  (5 months ago)
 - [fearricepudding/uranium-framework](https://github.com/fearricepudding/uranium-framework) - Uranium is a tiny PHP MVC framework (6 months ago)
 - [fearricepudding/PAWNY](https://github.com/fearricepudding/PAWNY) - Remote CAN client (7 months ago)
